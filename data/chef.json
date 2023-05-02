@@ -1,0 +1,176 @@
+[
+    {
+        "chef_picture": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/70633f146289527.62ada415533ae.jpg",
+        "id":1,
+        "chef_name": "Alice Smith",
+        "years_of_experience": 10,
+        "num_recipes": 50,
+        "likes": ["baking", "French cuisine", "farm-to-table"],
+        "bio": "Alice Smith is a passionate baker and chef who has been working in the culinary industry for over a decade. Her love of cooking began at a young age, and she has since honed her skills in some of the finest kitchens in the world. She is known for her innovative recipes and use of fresh, seasonal ingredients. In her free time, Alice enjoys gardening and exploring local farmers markets.",
+        "recipes": [
+          {
+            "name": "Blueberry Lemon Tart",
+            "ingredients": ["butter", "sugar", "flour", "egg", "lemon", "blueberries"],
+            "cooking_method": "Preheat oven to 350 degrees F. Mix together butter, sugar, flour, and egg to form the crust. Bake for 15 minutes. Meanwhile, mix together lemon juice and blueberries. Pour mixture over crust and bake for an additional 30 minutes.",
+            "rating": 4.8
+          },
+          {
+            "name": "Ratatouille",
+            "ingredients": ["eggplant", "zucchini", "yellow squash", "onion", "tomato", "garlic"],
+            "cooking_method": "Heat olive oil in a large skillet over medium heat. Add onion and garlic and cook until softened. Add eggplant, zucchini, and yellow squash and cook for 10-15 minutes. Add chopped tomato and cook for an additional 5-10 minutes. Serve hot.",
+            "rating": 4.2
+          },
+          {
+            "name": "Beef Bourguignon",
+            "ingredients": ["beef", "bacon", "carrots", "onion", "garlic", "red wine"],
+            "cooking_method": "Preheat oven to 350 degrees F. Brown beef and bacon in a large pot. Add chopped onion and garlic and cook until softened. Add carrots and red wine and cook for 10-15 minutes. Transfer mixture to a baking dish and bake for 2-3 hours, or until beef is tender.",
+            "rating": 4.9
+          }
+        ]
+      },
+      {
+        "chef_picture": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/06138a146289527.62ada415989b5.jpg",
+        "id":2,
+        "chef_name": "Alice Smith",
+        "years_of_experience": 10,
+        "num_recipes": 50,
+        "likes": ["baking", "French cuisine", "farm-to-table"],
+        "bio": "Alice Smith is a passionate baker and chef who has been working in the culinary industry for over a decade. Her love of cooking began at a young age, and she has since honed her skills in some of the finest kitchens in the world. She is known for her innovative recipes and use of fresh, seasonal ingredients. In her free time, Alice enjoys gardening and exploring local farmers markets.",
+        "recipes": [
+          {
+            "name": "Blueberry Lemon Tart",
+            "ingredients": ["butter", "sugar", "flour", "egg", "lemon", "blueberries"],
+            "cooking_method": "Preheat oven to 350 degrees F. Mix together butter, sugar, flour, and egg to form the crust. Bake for 15 minutes. Meanwhile, mix together lemon juice and blueberries. Pour mixture over crust and bake for an additional 30 minutes.",
+            "rating": 4.8
+          },
+          {
+            "name": "Ratatouille",
+            "ingredients": ["eggplant", "zucchini", "yellow squash", "onion", "tomato", "garlic"],
+            "cooking_method": "Heat olive oil in a large skillet over medium heat. Add onion and garlic and cook until softened. Add eggplant, zucchini, and yellow squash and cook for 10-15 minutes. Add chopped tomato and cook for an additional 5-10 minutes. Serve hot.",
+            "rating": 4.2
+          },
+          {
+            "name": "Beef Bourguignon",
+            "ingredients": ["beef", "bacon", "carrots", "onion", "garlic", "red wine"],
+            "cooking_method": "Preheat oven to 350 degrees F. Brown beef and bacon in a large pot. Add chopped onion and garlic and cook until softened. Add carrots and red wine and cook for 10-15 minutes. Transfer mixture to a baking dish and bake for 2-3 hours, or until beef is tender.",
+            "rating": 4.9
+          }
+        ]
+      },
+      {
+        "chef_picture": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/808f3d146289527.62ada415eb54f.jpg",
+        "id":3,
+        "chef_name": "Alice Smith",
+        "years_of_experience": 10,
+        "num_recipes": 50,
+        "likes": ["baking", "French cuisine", "farm-to-table"],
+        "bio": "Alice Smith is a passionate baker and chef who has been working in the culinary industry for over a decade. Her love of cooking began at a young age, and she has since honed her skills in some of the finest kitchens in the world. She is known for her innovative recipes and use of fresh, seasonal ingredients. In her free time, Alice enjoys gardening and exploring local farmers markets.",
+        "recipes": [
+          {
+            "name": "Blueberry Lemon Tart",
+            "ingredients": ["butter", "sugar", "flour", "egg", "lemon", "blueberries"],
+            "cooking_method": "Preheat oven to 350 degrees F. Mix together butter, sugar, flour, and egg to form the crust. Bake for 15 minutes. Meanwhile, mix together lemon juice and blueberries. Pour mixture over crust and bake for an additional 30 minutes.",
+            "rating": 4.8
+          },
+          {
+            "name": "Ratatouille",
+            "ingredients": ["eggplant", "zucchini", "yellow squash", "onion", "tomato", "garlic"],
+            "cooking_method": "Heat olive oil in a large skillet over medium heat. Add onion and garlic and cook until softened. Add eggplant, zucchini, and yellow squash and cook for 10-15 minutes. Add chopped tomato and cook for an additional 5-10 minutes. Serve hot.",
+            "rating": 4.2
+          },
+          {
+            "name": "Beef Bourguignon",
+            "ingredients": ["beef", "bacon", "carrots", "onion", "garlic", "red wine"],
+            "cooking_method": "Preheat oven to 350 degrees F. Brown beef and bacon in a large pot. Add chopped onion and garlic and cook until softened. Add carrots and red wine and cook for 10-15 minutes. Transfer mixture to a baking dish and bake for 2-3 hours, or until beef is tender.",
+            "rating": 4.9
+          }
+        ]
+      },
+      {
+        "chef_picture": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/520ac9146289527.62ada4164f3d4.jpg",
+        "id":4,
+        "chef_name": "Alice Smith",
+        "years_of_experience": 10,
+        "num_recipes": 50,
+        "likes": ["baking", "French cuisine", "farm-to-table"],
+        "bio": "Alice Smith is a passionate baker and chef who has been working in the culinary industry for over a decade. Her love of cooking began at a young age, and she has since honed her skills in some of the finest kitchens in the world. She is known for her innovative recipes and use of fresh, seasonal ingredients. In her free time, Alice enjoys gardening and exploring local farmers markets.",
+        "recipes": [
+          {
+            "name": "Blueberry Lemon Tart",
+            "ingredients": ["butter", "sugar", "flour", "egg", "lemon", "blueberries"],
+            "cooking_method": "Preheat oven to 350 degrees F. Mix together butter, sugar, flour, and egg to form the crust. Bake for 15 minutes. Meanwhile, mix together lemon juice and blueberries. Pour mixture over crust and bake for an additional 30 minutes.",
+            "rating": 4.8
+          },
+          {
+            "name": "Ratatouille",
+            "ingredients": ["eggplant", "zucchini", "yellow squash", "onion", "tomato", "garlic"],
+            "cooking_method": "Heat olive oil in a large skillet over medium heat. Add onion and garlic and cook until softened. Add eggplant, zucchini, and yellow squash and cook for 10-15 minutes. Add chopped tomato and cook for an additional 5-10 minutes. Serve hot.",
+            "rating": 4.2
+          },
+          {
+            "name": "Beef Bourguignon",
+            "ingredients": ["beef", "bacon", "carrots", "onion", "garlic", "red wine"],
+            "cooking_method": "Preheat oven to 350 degrees F. Brown beef and bacon in a large pot. Add chopped onion and garlic and cook until softened. Add carrots and red wine and cook for 10-15 minutes. Transfer mixture to a baking dish and bake for 2-3 hours, or until beef is tender.",
+            "rating": 4.9
+          }
+        ]
+      },
+      {
+        "chef_picture": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/968a22146289527.62ada4164eb56.jpg",
+        "id":5,
+        "chef_name": "Alice Smith",
+        "years_of_experience": 10,
+        "num_recipes": 50,
+        "likes": ["baking", "French cuisine", "farm-to-table"],
+        "bio": "Alice Smith is a passionate baker and chef who has been working in the culinary industry for over a decade. Her love of cooking began at a young age, and she has since honed her skills in some of the finest kitchens in the world. She is known for her innovative recipes and use of fresh, seasonal ingredients. In her free time, Alice enjoys gardening and exploring local farmers markets.",
+        "recipes": [
+          {
+            "name": "Blueberry Lemon Tart",
+            "ingredients": ["butter", "sugar", "flour", "egg", "lemon", "blueberries"],
+            "cooking_method": "Preheat oven to 350 degrees F. Mix together butter, sugar, flour, and egg to form the crust. Bake for 15 minutes. Meanwhile, mix together lemon juice and blueberries. Pour mixture over crust and bake for an additional 30 minutes.",
+            "rating": 4.8
+          },
+          {
+            "name": "Ratatouille",
+            "ingredients": ["eggplant", "zucchini", "yellow squash", "onion", "tomato", "garlic"],
+            "cooking_method": "Heat olive oil in a large skillet over medium heat. Add onion and garlic and cook until softened. Add eggplant, zucchini, and yellow squash and cook for 10-15 minutes. Add chopped tomato and cook for an additional 5-10 minutes. Serve hot.",
+            "rating": 4.2
+          },
+          {
+            "name": "Beef Bourguignon",
+            "ingredients": ["beef", "bacon", "carrots", "onion", "garlic", "red wine"],
+            "cooking_method": "Preheat oven to 350 degrees F. Brown beef and bacon in a large pot. Add chopped onion and garlic and cook until softened. Add carrots and red wine and cook for 10-15 minutes. Transfer mixture to a baking dish and bake for 2-3 hours, or until beef is tender.",
+            "rating": 4.9
+          }
+        ]
+      },
+      {
+        "chef_picture": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/06138a146289527.62ada415989b5.jpg",
+        "id":6,
+        "chef_name": "Alice Smith",
+        "years_of_experience": 10,
+        "num_recipes": 50,
+        "likes": ["baking", "French cuisine", "farm-to-table"],
+        "bio": "Alice Smith is a passionate baker and chef who has been working in the culinary industry for over a decade. Her love of cooking began at a young age, and she has since honed her skills in some of the finest kitchens in the world. She is known for her innovative recipes and use of fresh, seasonal ingredients. In her free time, Alice enjoys gardening and exploring local farmers markets.",
+        "recipes": [
+          {
+            "name": "Blueberry Lemon Tart",
+            "ingredients": ["butter", "sugar", "flour", "egg", "lemon", "blueberries"],
+            "cooking_method": "Preheat oven to 350 degrees F. Mix together butter, sugar, flour, and egg to form the crust. Bake for 15 minutes. Meanwhile, mix together lemon juice and blueberries. Pour mixture over crust and bake for an additional 30 minutes.",
+            "rating": 4.8
+          },
+          {
+            "name": "Ratatouille",
+            "ingredients": ["eggplant", "zucchini", "yellow squash", "onion", "tomato", "garlic"],
+            "cooking_method": "Heat olive oil in a large skillet over medium heat. Add onion and garlic and cook until softened. Add eggplant, zucchini, and yellow squash and cook for 10-15 minutes. Add chopped tomato and cook for an additional 5-10 minutes. Serve hot.",
+            "rating": 4.2
+          },
+          {
+            "name": "Beef Bourguignon",
+            "ingredients": ["beef", "bacon", "carrots", "onion", "garlic", "red wine"],
+            "cooking_method": "Preheat oven to 350 degrees F. Brown beef and bacon in a large pot. Add chopped onion and garlic and cook until softened. Add carrots and red wine and cook for 10-15 minutes. Transfer mixture to a baking dish and bake for 2-3 hours, or until beef is tender.",
+            "rating": 4.9
+          }
+        ]
+      }
+]
