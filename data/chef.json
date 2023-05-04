@@ -3,7 +3,7 @@
         "chef_picture": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/70633f146289527.62ada415533ae.jpg",
         "id":"1",
         "chef_name": "Alice Smith",
-        "years_of_experience": 10,
+        "years_of_experience": 9,
         "num_recipes": 50,
         "likes": ["baking", "French cuisine", "farm-to-table"],
         "bio": "Alice Smith is a passionate baker and chef who has been working in the culinary industry for over a decade. Her love of cooking began at a young age, and she has since honed her skills in some of the finest kitchens in the world. She is known for her innovative recipes and use of fresh, seasonal ingredients. In her free time, Alice enjoys gardening and exploring local farmers markets.",
@@ -32,10 +32,10 @@
         "chef_picture": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/06138a146289527.62ada415989b5.jpg",
         "id":"2",
         "chef_name": "William Johnson",
-        "years_of_experience": 10,
-        "num_recipes": 50,
+        "years_of_experience": 7,
+        "num_recipes": 70,
         "likes": ["baking", "French cuisine", "farm-to-table"],
-        "bio": "Alice Smith is a passionate baker and chef who has been working in the culinary industry for over a decade. Her love of cooking began at a young age, and she has since honed her skills in some of the finest kitchens in the world. She is known for her innovative recipes and use of fresh, seasonal ingredients. In her free time, Alice enjoys gardening and exploring local farmers markets.",
+        "bio": "William Johnson is a passionate baker and chef who has been working in the culinary industry for over a decade. Her love of cooking began at a young age, and she has since honed her skills in some of the finest kitchens in the world. She is known for her innovative recipes and use of fresh, seasonal ingredients. In her free time, Alice enjoys gardening and exploring local farmers markets.",
         "recipes": [
           {
             "name": "Blueberry Lemon Tart",
@@ -61,10 +61,10 @@
         "chef_picture": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/808f3d146289527.62ada415eb54f.jpg",
         "id":"3",
         "chef_name": "josef martin",
-        "years_of_experience": 10,
+        "years_of_experience": 11,
         "num_recipes": 50,
         "likes": ["baking", "French cuisine", "farm-to-table"],
-        "bio": "Alice Smith is a passionate baker and chef who has been working in the culinary industry for over a decade. Her love of cooking began at a young age, and she has since honed her skills in some of the finest kitchens in the world. She is known for her innovative recipes and use of fresh, seasonal ingredients. In her free time, Alice enjoys gardening and exploring local farmers markets.",
+        "bio": "josef martin is a passionate baker and chef who has been working in the culinary industry for over a decade. Her love of cooking began at a young age, and she has since honed her skills in some of the finest kitchens in the world. She is known for her innovative recipes and use of fresh, seasonal ingredients. In her free time, Alice enjoys gardening and exploring local farmers markets.",
         "recipes": [
           {
             "name": "Blueberry Lemon Tart",
@@ -90,10 +90,10 @@
         "chef_picture": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/520ac9146289527.62ada4164f3d4.jpg",
         "id":"4",
         "chef_name": "eliana",
-        "years_of_experience": 10,
-        "num_recipes": 50,
+        "years_of_experience": 13,
+        "num_recipes": 80,
         "likes": ["baking", "French cuisine", "farm-to-table"],
-        "bio": "Alice Smith is a passionate baker and chef who has been working in the culinary industry for over a decade. Her love of cooking began at a young age, and she has since honed her skills in some of the finest kitchens in the world. She is known for her innovative recipes and use of fresh, seasonal ingredients. In her free time, Alice enjoys gardening and exploring local farmers markets.",
+        "bio": "eliana is a passionate baker and chef who has been working in the culinary industry for over a decade. Her love of cooking began at a young age, and she has since honed her skills in some of the finest kitchens in the world. She is known for her innovative recipes and use of fresh, seasonal ingredients. In her free time, Alice enjoys gardening and exploring local farmers markets.",
         "recipes": [
           {
             "name": "Blueberry Lemon Tart",
@@ -118,11 +118,11 @@
       {
         "chef_picture": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/968a22146289527.62ada4164eb56.jpg",
         "id":"5",
-        "chef_name": "rison",
-        "years_of_experience": 10,
-        "num_recipes": 50,
+        "chef_name": "risona",
+        "years_of_experience": 6,
+        "num_recipes": 38,
         "likes": ["baking", "French cuisine", "farm-to-table"],
-        "bio": "Alice Smith is a passionate baker and chef who has been working in the culinary industry for over a decade. Her love of cooking began at a young age, and she has since honed her skills in some of the finest kitchens in the world. She is known for her innovative recipes and use of fresh, seasonal ingredients. In her free time, Alice enjoys gardening and exploring local farmers markets.",
+        "bio": "risona is a passionate baker and chef who has been working in the culinary industry for over a decade. Her love of cooking began at a young age, and she has since honed her skills in some of the finest kitchens in the world. She is known for her innovative recipes and use of fresh, seasonal ingredients. In her free time, Alice enjoys gardening and exploring local farmers markets.",
         "recipes": [
           {
             "name": "Blueberry Lemon Tart",
@@ -149,9 +149,9 @@
         "id":"6",
         "chef_name": "Baku",
         "years_of_experience": 10,
-        "num_recipes": 50,
+        "num_recipes": 60,
         "likes": ["baking", "French cuisine", "farm-to-table"],
-        "bio": "Alice Smith is a passionate baker and chef who has been working in the culinary industry for over a decade. Her love of cooking began at a young age, and she has since honed her skills in some of the finest kitchens in the world. She is known for her innovative recipes and use of fresh, seasonal ingredients. In her free time, Alice enjoys gardening and exploring local farmers markets.",
+        "bio": "Baku is a passionate baker and chef who has been working in the culinary industry for over a decade. Her love of cooking began at a young age, and she has since honed her skills in some of the finest kitchens in the world. She is known for her innovative recipes and use of fresh, seasonal ingredients. In her free time, Alice enjoys gardening and exploring local farmers markets.",
         "recipes": [
           {
             "name": "Blueberry Lemon Tart",
